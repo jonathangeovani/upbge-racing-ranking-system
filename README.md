@@ -4,6 +4,8 @@ A simple but functional positioning system for racing games.
 
 Keep tracking of laps, checkpoints passed and the cars position in the ranking through checkpoints placed on the track.
 
+PS: should work with upbge 0.3+ as well.
+
 ## Table of contents
 
 - [How to Configure the Script](#configure-the-script)
